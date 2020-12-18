@@ -1,0 +1,47 @@
+body {
+    background-color: #1BA1AD;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.img {
+    position: fixed;
+}
+
+.bottom-bg {
+    bottom: -800px;
+    right: -400px;
+}
+
+.top-bg {
+    top: -800px;
+    left: -400px;
+}
+
+.card .card-bg .victor {
+    position: absolute;
+    bottom: -50px;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.card h3 {
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.card h3 span {
+    font-size: 1rem;
+}
+
+.row .col-4 h4 {
+    font-weight: 700;
+}
+
+.attribution {
+    text-align: center;
+}
+
+.attribution a {
+    font-weight: 700;
+    color: hsl(228, 45%, 44%);
+}
